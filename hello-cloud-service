@@ -1,4 +1,4 @@
 # this is the port on which our hello-cloud-servicde will run on
 server.port=7979
 management.endpoints.web.exposure.include=*
-officialgreeting="Greetings from the Hello cloud Service!!! We are glad you are here!"
+officialGreeting="Greetings from the Hello cloud Service!!! We are glad you are here!"
